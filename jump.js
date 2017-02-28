@@ -12,7 +12,7 @@ function jump() {
 
     var speedPower = 0.02;
     var maxSpeed = 13;
-    ///Alfred
+
     this.y = window.innerHeight + round(random(500, 5000));
     this.x = random(-500, window.innerWidth + 400);
 
